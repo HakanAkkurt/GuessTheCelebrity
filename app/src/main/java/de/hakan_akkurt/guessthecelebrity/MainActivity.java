@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
     Button button0;
     Button button1;
     Button button2;
-    Button button4;
+    Button button3;
 
     public void celebChosen (View view) {
 
